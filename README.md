@@ -1,0 +1,2 @@
+# ICS
+Intelligent Chord Sequencer
